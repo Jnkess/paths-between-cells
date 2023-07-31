@@ -1,6 +1,6 @@
 Communication pathways in tissues between cells of equal nuclear masses developed
 ##############
-Autor: Jakub Jankowski, Politechnika Poznańska
+Author: Jakub Jankowski, Poznan University of Technology
 +++++++++
 
 **Theory**
