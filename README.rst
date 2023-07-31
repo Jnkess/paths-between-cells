@@ -13,6 +13,8 @@ Autor: Jakub Jankowski, Politechnika Poznańska
 
 .. image:: https://cdn.discordapp.com/attachments/885201652305494020/1135498024836145192/hipoteza.png
 *problem visualization*
+
+
 ++++++++++
 Example solution
 ++++++++++
