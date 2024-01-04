@@ -7,7 +7,6 @@ Author: Jakub Jankowski, Poznan University of Technology
 
 * User provides the number of cells in the tissue, start and end points, and the mass to be assumed by the path between the given points.
 * Then program creates a graph representing the tissue, where the boundary neighborhood is additionally implemented, meaning - closing the system into a torus so that each vertex (cell) has 6 neighbors.
-* Program losuje masę dla wszystkich wierzchołków zgodnie z rozkładem Gaussa, z wyjątkiem dwóch podanych przez użytkownika(początkowego i końcowego).
 * Program randomizes the mass for all vertices according to the Gaussian distribution, except for two specified by the user (initial and final)
 * An adjacency list is created. On its basis, the program creates a path from the starting point, where in each subsequent iteration the value of all vertices is changed, except for those that are in the path and have the same mass as the one given by the user.
 
